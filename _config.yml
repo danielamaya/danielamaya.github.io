@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Daniel Amaya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I enjoy Linux, programming (Java, Python, Perl, Lisp), data, and the day-to-day rigmarole of trying to figure crap out, which I've found to be what about 99% of time spent in front of a computer is about. This is a place where I write things as I figure them out, with the intention that I'll come back and look when I inevitably face the same issue again later down the road. Maybe these posts will help others as well."
-  location         : "I'll never tell."
-  email            :
+  bio              : "Something witty. Something informative. Blah, blah, blah."
+  location         : "Right Behind You, In Your House"
+  email            : 
   uri              :
   bitbucket        :
   codepen          :
