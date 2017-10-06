@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Shit Droppings"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Daniel Amaya"
+description              : "Just a place for me to write about what I'm working on."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Daniel Amaya"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I enjoy Linux, programming (Java, Python, Perl, Lisp), data, and the day-to-day rigmarole of trying to figure crap out, which I've found to be what about 99% of time spent in front of a computer is about. This is a place where I write things as I figure them out, with the intention that I'll come back and look when I inevitably face the same issue again later down the road. Maybe these posts will help others as well."
+  location         : "I'll never tell."
   email            :
   uri              :
   bitbucket        :
